@@ -1,0 +1,137 @@
+@media screen and (max-width: 768px){
+.magazine,form{
+display:none;
+}
+.distance{
+font-size: 0;
+}
+.tag .navbar-nav{
+padding-top:0;
+}
+.navbar-toggle{
+background-color:white;
+}
+.navbar-header-two{
+float:none;
+}
+li a{
+font-size:11px;
+}
+.calendar p{
+width:120%;
+}
+.rec{
+padding:2%;
+}
+.calendar p{
+font-size:10px;
+}
+.calendar h4{
+font-size:10px;
+font-weight: 900;
+}
+.calendar .fecha p{
+font-size:18px;
+}
+.calendar{
+height: 31em;
+}
+footer div{
+padding:0;
+}
+footer .expertise{
+display:none;
+}
+.detalle .glyphicon-play{
+float:left;
+}
+.detalle .record{
+left:60px;
+z-index:3;
+}
+.detalle .glyphicon-volume-up{
+left: 122px;
+}
+.indicador{
+padding: 0.6% 0;
+background-color: white;
+position: absolute;
+top: 6px;
+width: 65%;
+left: 10%;
+}
+.history{
+width:35%;
+}
+.history-2{
+width:76%;
+}
+}
+@media screen and (max-width: 600px){
+.magazine,form{
+display:none;
+}
+.distance{
+font-size: 0;
+}
+.navbar-collapse.collapse {
+display: none !important;
+}
+.navbar-collapse.collapse.in {
+display: block !important;
+}
+.navbar-header .collapse, .navbar-toggle {
+display:block !important;
+}
+.tag .navbar-nav{
+padding-top:0;
+}
+.navbar-toggle{
+background-color:white;
+}
+.navbar-header-two{
+float:none;
+}
+.principal{
+top:4%;
+padding-top:4%;
+position:absolute;
+}
+.detalle .glyphicon-play{
+float:left;
+}
+.detalle .record{
+left:210px;
+z-index:3;
+}
+.detalle .glyphicon-volume-up{
+left: 410px;
+}
+.rec{
+	padding-top:0;
+	margin:2% 0;
+	height:45em;
+
+}
+.indicador{
+	width:75%;
+}
+.history-2{
+	margin-top: 10%;
+}
+.we{
+vertical-align:top;
+padding:0;
+}
+.calendar .col-xs-12{
+	padding:2% 0;
+}
+.calendar{
+	height:38em;
+}
+.rubros,.suscripcion,.nosotros,.contact{
+	width:48%;
+	display:inline-block;
+}
+
+}
